@@ -1,0 +1,7 @@
+E:\aduino\aduino_C#\aduino_C#\bin\Debug\aduino_C#.exe.config
+E:\aduino\aduino_C#\aduino_C#\bin\Debug\aduino_C#.exe
+E:\aduino\aduino_C#\aduino_C#\bin\Debug\aduino_C#.pdb
+E:\aduino\aduino_C#\aduino_C#\obj\Debug\aduino_C#.csproj.AssemblyReference.cache
+E:\aduino\aduino_C#\aduino_C#\obj\Debug\aduino_C#.csproj.CoreCompileInputs.cache
+E:\aduino\aduino_C#\aduino_C#\obj\Debug\aduino_C#.exe
+E:\aduino\aduino_C#\aduino_C#\obj\Debug\aduino_C#.pdb
